@@ -8,3 +8,7 @@
 for i in range(2):
     print(i)
 ```
+
+- [ ] Do software assignment
+- [ ] Do github assignment
+- [ ] Submit assignment
